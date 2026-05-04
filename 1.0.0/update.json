@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "currentVersion": "1.0.1",
   "strict": false,
-  "updatePackage": ""
+  "updatePackage": "https://github.com/your-username/your-repo/releases/download/v1.0.0/update.json"
 }
